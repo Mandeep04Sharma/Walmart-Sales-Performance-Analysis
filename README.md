@@ -1,4 +1,4 @@
-# Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques
+# Walmart Sales Performance Analysis Using Advanced MySQL.
 
 ## Project Overview:
 This project analyzes historical transaction data from Walmart stores using advanced SQL queries to uncover insights related to sales performance, customer behavior, and operational efficiency. By leveraging SQL techniques, the project covers various aspects such as branch performance, product profitability, customer segmentation, and sales trends.
@@ -29,9 +29,9 @@ This project analyzes historical transaction data from Walmart stores using adva
 - MySQL
 - Advanced SQL queries (e.g., JOINs, GROUP BY, window functions, subqueries)
 
-## **Project Deliverables**:
-- SQL Script with queries for each task
-- PowerPoint presentation summarizing the analysis and findings
-- 5-minute video walkthrough of the project
+## 📧 Contact
 
-📽️ [Video Explanation](your-video-link)
+Feel free to connect:
+
+- LinkedIn: https://www.linkedin.com/in/mandeep-sharma04/
+- Email: Mandeep04sharma@gmale.com
